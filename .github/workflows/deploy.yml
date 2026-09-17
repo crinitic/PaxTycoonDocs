@@ -3,7 +3,7 @@ name: Publish Docs to GitHub Pages
 on:
   push:
     branches:
-      - main  # Triggers the build whenever you push to main
+      - master  # Triggers the build whenever you push to master
 
 permissions:
   contents: write  # Crucial: Gives the runner permission to commit to the gh-pages branch
