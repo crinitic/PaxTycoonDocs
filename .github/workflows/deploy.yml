@@ -1,0 +1,29 @@
+name: Publish Docs to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Triggers the build whenever you push to main
+
+permissions:
+  contents: write  # Crucial: Gives the runner permission to commit to the gh-pages branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install MkDocs Material
+        run: |
+          pip install mkdocs-material
+
+      - name: Deploy to GitHub Pages
+        # This compiles the Markdown and safely pushes the static HTML to a 'gh-pages' branch
+        run: mkdocs gh-deploy --force

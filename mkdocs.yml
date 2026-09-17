@@ -1,0 +1,36 @@
+site_name: PaxTycoon Documentation
+site_description: An elegant documentation site hosted on GitHub Pages.
+site_author: Your Name
+
+theme:
+  name: material
+  palette:
+    # Automatically switches between light and dark mode based on system settings
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs      # Top-level tabs for clean navigation
+    - navigation.sections  # Groups sidebar links into sections
+    - search.suggest       # Auto-suggest search terms
+    - search.highlight     # Highlights searched words on the page
+
+# Sidebar Navigation Structure
+nav:
+  - Home: index.md
+  - Play: 
+    - Overview: play/overview.md
+    - Personnel: play/personnel.md
+    - Fleet: play/fleet.md
+  - FAQ: faq.md
