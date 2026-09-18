@@ -5,6 +5,8 @@ site_author: PAXTycoon CEO
 
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   palette:
     # Automatically switches between light and dark mode based on system settings
     - media: "(prefers-color-scheme: light)"
