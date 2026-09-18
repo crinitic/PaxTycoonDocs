@@ -8,25 +8,31 @@ site_author = "PAXTycoon CEO"
 nav = [
   { "Home" = "index.md" },
   { "Personnel" = [
-    { "Flight Crew" = [
-      { "Pilot" = "personnel/pilot.md" },
-      { "Flight Attendant" = "personnel/flight-attendant.md" },
-    ] },
-    { "Ground" = [
-      { "Gate Agent" = "personnel/gate-agent.md" },
-      { "Mechanic" = "personnel/mechanic.md" },
-      { "Lounge Staff" = "personnel/lounge-staff.md" },
-    ] },
-    { "Specialists" = [
-      { "Aircraft Advisor" = "personnel/aircraft-advisor.md" },
-      { "Financial Advisor" = "personnel/financial-advisor.md" },
-      { "Personnel Advisor" = "personnel/personnel-advisor.md" },
-      { "Route Advisor" = "personnel/route-advisor.md" },
-      { "Informer" = "personnel/informer.md" },
-      { "Lawyer" = "personnel/lawyer.md" },
-      { "Security Manager" = "personnel/security-manager.md" },
-      { "Trainer" = "personnel/trainer.md" },
-    ] },
+    { "Jobs" = [
+      { "Flight Crew" = [
+        { "Pilot" = "personnel/jobs/pilot.md" },
+        { "Flight Attendant" = "personnel/jobs/flight-attendant.md" },
+      ] },
+      { "Ground" = [
+        { "Gate Agent" = "personnel/jobs/gate-agent.md" },
+        { "Mechanic" = "personnel/jobs/mechanic.md" },
+        { "Lounge Staff" = "personnel/jobs/lounge-staff.md" },
+      ] },
+      { "Specialists" = [
+        { "Aircraft Advisor" = "personnel/jobs/aircraft-advisor.md" },
+        { "Financial Advisor" = "personnel/jobs/financial-advisor.md" },
+        { "Personnel Advisor" = "personnel/jobs/personnel-advisor.md" },
+        { "Route Advisor" = "personnel/jobs/route-advisor.md" },
+        { "Informer" = "personnel/jobs/informer.md" },
+        { "Lawyer" = "personnel/jobs/lawyer.md" },
+        { "Security Manager" = "personnel/jobs/security-manager.md" },
+        { "Trainer" = "personnel/jobs/trainer.md" },
+      ] },
+    ]},
+    { "Competence" = "personnel/competence.md" },
+    { "Satisfaction" = "personnel/satisfaction.md" },
+    { "Training" = "personnel/training.md" },
+    { "Absence and Incidents" = "personnel/absence-incidents.md" },
   ] },
   { "FAQ" = "faq.md" },
 ]
@@ -34,8 +40,6 @@ nav = [
 extra_css = ["assets/stylesheets/paxtycoon.css"]
 
 [project.theme]
-# Zensical's own design, rather than the "classic" variant that reproduces
-# Material for MkDocs. The hues themselves live in assets/stylesheets/paxtycoon.css.
 variant = "modern"
 logo = "assets/logo.png"
 favicon = "assets/favicon.png"
@@ -46,11 +50,12 @@ features = [
   "search.highlight",     # Highlights searched words on the page
 ]
 
-# One scheme only: the game is dark and has no light mode, so neither does
-# this — a single entry means no toggle is rendered.
 [[project.theme.palette]]
 scheme = "paxtycoon"
 
 [project.theme.font]
 text = "Inter"
 code = "Roboto Mono"
+
+[project.extra]
+generator = false

@@ -131,6 +131,20 @@
   text-transform:uppercase;
 }
 
+/* The theme's heading margins are tuned for Inter. Barlow Condensed sets
+   narrower, and uppercased at the top two levels it leaves no descenders
+   reaching into the space below, so the same metric gap reads as a hole.
+   Half the heading's own size is the rule, which em gives directly: each
+   level then gets space in proportion to how loud it is. Only the space
+   below a heading is pulled in — the space above it is what separates one
+   section from the last, and that still has work to do */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  margin-bottom:0.5em;
+}
+
 /* Tabular figures keep money, times and flight numbers lined up the way they
    are in the game */
 .md-typeset {
@@ -286,6 +300,13 @@
   font-weight:600;
   text-transform:uppercase;
   letter-spacing:0.02em;
+}
+
+/* A section nested inside another section (the job families under "Jobs")
+   keeps the indentation the theme drops for top-level sections, so the
+   families do not read as siblings of "Jobs", "Competence" and "Training" */
+.md-nav--primary .md-nav__item--section .md-nav__item--section > .md-nav > .md-nav__list {
+  margin-inline-start:0.6rem;
 }
 
 /* "Back to top" and the version/edit buttons are the game's quiet buttons */
