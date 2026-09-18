@@ -25,10 +25,23 @@ theme:
 # Sidebar Navigation Structure
 nav:
   - Home: index.md
-  - Play: 
-    - Overview: play/overview.md
-    - Personnel: play/personnel.md
-    - Fleet: play/fleet.md
+  - Personnel:
+    - Flight Crew:
+      - Pilot: personnel/pilot.md
+      - Flight Attendant: personnel/flight-attendant.md
+    - Ground:
+      - Gate Agent: personnel/gate-agent.md
+      - Mechanic: personnel/mechanic.md
+      - Lounge Staff: personnel/lounge-staff.md
+    - Specialists:
+      - Aircraft Advisor: personnel/aircraft-advisor.md
+      - Financial Advisor: personnel/financial-advisor.md
+      - Personnel Advisor: personnel/personnel-advisor.md
+      - Route Advisor: personnel/route-advisor.md
+      - Informer: personnel/informer.md
+      - Lawyer: personnel/lawyer.md
+      - Security Manager: personnel/security-manager.md
+      - Trainer: personnel/trainer.md
   - FAQ: faq.md
 
 extra_css:
