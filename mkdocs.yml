@@ -1,6 +1,7 @@
 site_name: PaxTycoon Documentation
-site_description: An elegant documentation site hosted on GitHub Pages.
-site_author: Your Name
+site_url: https://docs.paxtycoon.com/
+site_description: PAXTycoon documentation
+site_author: PAXTycoon CEO
 
 theme:
   name: material
