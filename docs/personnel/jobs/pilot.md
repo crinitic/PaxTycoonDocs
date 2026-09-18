@@ -5,3 +5,11 @@ Pilots fly the aircraft. Each aeroplane needs its full complement before it can 
 Competence here feeds feeds how often this person is the cause of an incident.
 
 ## Satisfaction
+!!! warning "Pending Implementation"
+    Satisfaction doesn't have an impact on employee behavior yet.
+
+Low satisfaction increases the likelihood of:
+
+- Employee quitting
+- Employee being sick
+- Employee being the cause of an incident

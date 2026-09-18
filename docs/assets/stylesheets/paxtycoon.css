@@ -63,6 +63,11 @@
   --md-typeset-kbd-border-color:var(--color-border-deep);
   --md-typeset-table-color:var(--color-border-deep);
 
+  /* The theme works this one out at :root, before the scheme below is in
+     scope, so an admonition would otherwise take the light theme's near-black
+     body text onto a dark panel */
+  --md-admonition-fg-color:var(--color-text);
+
   --md-code-fg-color:var(--color-text);
   --md-code-bg-color:var(--color-background-main);
   --md-code-hl-color:#eca42e26;
@@ -92,7 +97,7 @@
 /* The game's backdrop: one fixed glow at the top of the viewport, with the
    page itself transparent over it rather than repeating the gradient per
    section */
-[data-md-color-scheme="paxtycoon"] body {
+body[data-md-color-scheme="paxtycoon"] {
   background-image:radial-gradient(ellipse 75% 55% at 50% 0%, var(--color-action) 0%, var(--color-background-deep) 70%);
   background-attachment:fixed;
   background-repeat:no-repeat;
@@ -207,8 +212,8 @@
 
 /* Admonitions borrow the game's status colours rather than the theme's. A
    panel in the game is one flat surface, so the kind is carried by the bar
-   down its edge and by its icon: the title is not given a second background to
-   sit on, and the other three sides stay in the ordinary panel border */
+   down its edge and by its icon, and the other three sides stay in the
+   ordinary panel border */
 .md-typeset .admonition,
 .md-typeset details {
   background-color:var(--color-background-main);
@@ -219,12 +224,17 @@
   font-size:0.7rem;
 }
 
-/* The theme tints each kind's title bar in its own colour, one selector deeper
-   than a bare .admonition-title, so the flat surface has to be claimed at the
-   same depth */
+/* This theme variant washes the whole panel in its kind's colour, one selector
+   deeper than the rule above — matching an admonition on the class it always
+   carries is enough to take the surface back */
+.md-typeset .admonition[class],
+.md-typeset details[class] {
+  background-color:var(--color-background-main);
+}
+
+/* A title is the panel's header, so it reads as signage */
 .md-typeset .admonition > .admonition-title,
 .md-typeset details > summary {
-  background-color:transparent;
   font-family:var(--font-airport);
   font-weight:600;
   font-size:0.85rem;
@@ -238,48 +248,30 @@
   border-bottom:1px solid var(--color-border-deep);
 }
 
-.md-typeset .admonition.note,
-.md-typeset details.note {
-  border-color:var(--color-border-deep);
-  border-left-color:var(--color-action-border);
+/* Each kind names its colour once, and the edge bar and the icon both take it.
+   The theme's own icons are masks, so an icon is painted by its background */
+.md-typeset .note {
+  --color-kind:var(--color-action-border);
 }
 
-.md-typeset .note > .admonition-title::before,
-.md-typeset .note > summary::before {
-  background-color:var(--color-action-border);
+.md-typeset .tip {
+  --color-kind:var(--color-success);
 }
 
-.md-typeset .admonition.tip,
-.md-typeset details.tip {
-  border-color:var(--color-border-deep);
-  border-left-color:var(--color-success);
+.md-typeset .warning {
+  --color-kind:var(--color-warning);
 }
 
-.md-typeset .tip > .admonition-title::before,
-.md-typeset .tip > summary::before {
-  background-color:var(--color-success);
+.md-typeset .danger {
+  --color-kind:var(--color-error);
 }
 
-.md-typeset .admonition.warning,
-.md-typeset details.warning {
-  border-color:var(--color-border-deep);
-  border-left-color:var(--color-warning);
+.md-typeset :is(.note, .tip, .warning, .danger) {
+  border-left-color:var(--color-kind);
 }
 
-.md-typeset .warning > .admonition-title::before,
-.md-typeset .warning > summary::before {
-  background-color:var(--color-warning);
-}
-
-.md-typeset .admonition.danger,
-.md-typeset details.danger {
-  border-color:var(--color-border-deep);
-  border-left-color:var(--color-error);
-}
-
-.md-typeset .danger > .admonition-title::before,
-.md-typeset .danger > summary::before {
-  background-color:var(--color-error);
+.md-typeset :is(.note, .tip, .warning, .danger) > :is(.admonition-title, summary)::before {
+  background-color:var(--color-kind);
 }
 
 /* The active page in the sidebar and the table of contents is marked in the
