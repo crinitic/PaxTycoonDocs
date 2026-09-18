@@ -7,22 +7,15 @@ theme:
   name: material
   logo: assets/logo.png
   favicon: assets/favicon.png
+  # One scheme only: the game is dark and has no light mode, so neither does
+  # this. The hues themselves live in assets/stylesheets/paxtycoon.css.
   palette:
-    # Automatically switches between light and dark mode based on system settings
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+    scheme: paxtycoon
+
+  font:
+    text: Inter
+    code: Roboto Mono
+
   features:
     - navigation.tabs      # Top-level tabs for clean navigation
     - navigation.sections  # Groups sidebar links into sections
@@ -37,3 +30,6 @@ nav:
     - Personnel: play/personnel.md
     - Fleet: play/fleet.md
   - FAQ: faq.md
+
+extra_css:
+  - assets/stylesheets/paxtycoon.css
