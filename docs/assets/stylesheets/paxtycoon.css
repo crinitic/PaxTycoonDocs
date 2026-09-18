@@ -1,11 +1,11 @@
 /* The condensed face the game uses for anything that reads like airport
-   signage. Material only loads the two fonts named in mkdocs.yml, so the
+   signage. The theme only loads the two fonts named in zensical.toml, so the
    headings face is fetched here. */
 @import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600&display=swap");
 
 /* The game's palette, copied from AirlineGameStatic/src/colors.css. Kept under
    its own names so this file reads the same as the game's stylesheet, and only
-   the mapping below has to know what Material calls things. */
+   the mapping below has to know what the theme calls things. */
 :root {
   --color-background-main:#0e2c3b;
   --color-background-deep:#081f2b;
@@ -29,7 +29,7 @@
 [data-md-color-scheme="paxtycoon"] {
   color-scheme: dark;
 
-  /* Header, tabs and anything else Material paints in the primary colour get
+  /* Header, tabs and anything else the theme paints in the primary colour get
      the surface the game's header uses, sitting on the darker gradient below */
   --md-primary-fg-color:var(--color-background-main);
   --md-primary-fg-color--light:var(--color-action);
@@ -138,25 +138,32 @@
 }
 
 /* The search field and code blocks are the game's inputs: the deeper surface,
-   inside the border the rest of the chrome is drawn in */
-.md-search__form {
+   inside the border the rest of the chrome is drawn in. Zensical opens search
+   in an overlay rather than filling an inline form, so the field in the header
+   is the button that opens it */
+.md-search__button {
   background-color:var(--color-background-deep);
   border:1px solid var(--color-border-deep);
   border-radius:5px;
+  color:var(--color-text);
 }
 
-.md-search__form:hover {
+.md-search__button:focus,
+.md-search__button:hover {
   background-color:var(--color-background-deep);
   border-color:var(--color-action-border);
+  color:var(--color-text);
 }
 
-[data-md-toggle="search"]:checked ~ .md-header .md-search__form {
-  background-color:var(--color-background-deep);
-  border-color:var(--color-action-border);
+/* The magnifier is a mask, so it is painted by its background */
+.md-search__button::before {
+  background-color:var(--color-text);
 }
 
-.md-search__output {
-  border-radius:0 0 5px 5px;
+/* The keyboard shortcut sits on the surface above the field, the way a key
+   cap does elsewhere */
+.md-search__button::after {
+  background-color:var(--color-background-main);
 }
 
 .md-typeset pre > code,
@@ -184,7 +191,7 @@
   letter-spacing:0.02em;
 }
 
-/* Admonitions borrow the game's status colours rather than Material's. A
+/* Admonitions borrow the game's status colours rather than the theme's. A
    panel in the game is one flat surface, so the kind is carried by the bar
    down its edge and by its icon: the title is not given a second background to
    sit on, and the other three sides stay in the ordinary panel border */
@@ -198,7 +205,7 @@
   font-size:0.7rem;
 }
 
-/* Material tints each kind's title bar in its own colour, one selector deeper
+/* The theme tints each kind's title bar in its own colour, one selector deeper
    than a bare .admonition-title, so the flat surface has to be claimed at the
    same depth */
 .md-typeset .admonition > .admonition-title,
@@ -211,7 +218,7 @@
   letter-spacing:0.02em;
 }
 
-/* Material draws the rule under a title only when the admonition is open */
+/* The rule under a title is drawn only when the admonition is open */
 .md-typeset .admonition > .admonition-title,
 .md-typeset details[open] > summary {
   border-bottom:1px solid var(--color-border-deep);
