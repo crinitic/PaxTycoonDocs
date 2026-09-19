@@ -29,10 +29,9 @@ nav = [
         { "Trainer" = "personnel/jobs/trainer.md" },
       ] },
     ]},
-    { "Competence" = "personnel/competence.md" },
-    { "Satisfaction" = "personnel/satisfaction.md" },
-    { "Training" = "personnel/training.md" },
     { "Absence and Incidents" = "personnel/absence-incidents.md" },
+    { "Salary Increases" = "personnel/salary-increases.md" },
+    { "Training" = "personnel/training.md" },
   ] },
   { "FAQ" = "faq.md" },
 ]
