@@ -11,6 +11,12 @@ Low competence attendants decrease the passenger satisfaction on a flight, and h
 !!! warning "Pending Implementation"
     Satisfaction doesn't have an impact on employee behavior yet.
 
+- Miserable
+- Unhappy
+- Okay
+- Happy
+- Delighted
+
 Low satisfaction increases the likelihood of:
 
 - Employee quitting

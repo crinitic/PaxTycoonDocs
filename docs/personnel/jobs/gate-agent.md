@@ -8,6 +8,12 @@ Low competence gate agents decrease the passenger satisfaction for all flights d
 !!! warning "Pending Implementation"
     Satisfaction doesn't have an impact on employee behavior yet.
 
+- Miserable
+- Unhappy
+- Okay
+- Happy
+- Delighted
+
 Low satisfaction increases the likelihood of:
 
 - Employee quitting

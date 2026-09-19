@@ -118,6 +118,13 @@ body[data-md-color-scheme="paxtycoon"] {
   border-top:1px solid var(--color-border-deep);
 }
 
+/* The theme drops the content 1.5rem below the tabs. The tabs already carry a
+   rule under them, so that gap reads as a band of empty page rather than as
+   separation, and the content starts against the rule instead */
+.md-main__inner {
+  margin-top:0;
+}
+
 /* Headings are the game's signage: condensed, bold, and shouted at the top two
    levels only — a deep heading in a manual is a sentence, and uppercase costs
    more in readability there than it buys in flavour */

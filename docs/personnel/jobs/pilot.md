@@ -8,6 +8,12 @@ Competence here feeds feeds how often this person is the cause of an incident.
 !!! warning "Pending Implementation"
     Satisfaction doesn't have an impact on employee behavior yet.
 
+- Miserable
+- Unhappy
+- Okay
+- Happy
+- Delighted
+
 Low satisfaction increases the likelihood of:
 
 - Employee quitting

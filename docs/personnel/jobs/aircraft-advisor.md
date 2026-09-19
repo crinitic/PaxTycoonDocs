@@ -21,6 +21,12 @@ Only your best aircraft advisor counts.
 !!! warning "Pending Implementation"
     Satisfaction doesn't have an impact on employee behavior yet.
 
+- Miserable
+- Unhappy
+- Okay
+- Happy
+- Delighted
+
 Low satisfaction increases the likelihood of:
 
 - Employee quitting
