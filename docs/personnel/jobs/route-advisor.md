@@ -7,18 +7,11 @@ Only your best route advisor counts.
 
 ## Competence
 
-- **Disaster**: Knows which airports are busy and which are quiet. Enough to
-  tell you London and New York matter more than a regional field, which you had
-  probably worked out for yourself.
-- **Questionable**: Draws a route's season: the months it fills and the months
-  it empties. Shape only you can see when to fly it, not how much there is.
-- **Competent**: Adds the week, so you can see which days carry a route and
-  which do not. Still shape, still no headcount.
-- **Impressive**: Adds the hours of the day, so you can see when people want to
-  leave. Three curves now, and every one of them still relative.
-- **Exceptional**: Counts them. The same three curves in passengers a day,
-  which is the first point at which you can match an aeroplane to a route
-  instead of guessing at one.
+- **Disaster**: Share randoms facts about the airports that par part of the route.
+- **Questionable**: Draws a route's season: the months it fills and the months it empties. Shape only you can see when to fly it, not how much there is.
+- **Competent**: Adds the week, so you can see which days carry a route and which do not. Still shape, still no headcount.
+- **Impressive**: Adds the hours of the day, so you can see when people want to leave. Three curves now, and every one of them still relative.
+- **Exceptional**: The same three curves in passengers a day, which is the first point at which you can match an aeroplane to a route instead of guessing at one.
 
 ## Satisfaction
 !!! warning "Pending Implementation"
