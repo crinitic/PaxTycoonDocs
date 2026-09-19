@@ -103,8 +103,8 @@ body[data-md-color-scheme="paxtycoon"] {
   background-repeat:no-repeat;
 }
 
-/* Header and footer are the surfaces wrapped around the content, so the only
-   lines drawn are the ones separating them from it */
+/* The header is the surface wrapped around the content, so the only lines
+   drawn are the ones separating it from it */
 .md-header {
   border-bottom:1px solid var(--color-border-deep);
   box-shadow:none;
@@ -114,8 +114,11 @@ body[data-md-color-scheme="paxtycoon"] {
   border-bottom:1px solid var(--color-border-deep);
 }
 
-.md-footer-meta {
-  border-top:1px solid var(--color-border-deep);
+/* Nothing is set for the footer to carry — no copyright, no generator line and
+   no page-to-page links — so it is a rule and a band of padding under content
+   that has already ended */
+.md-footer {
+  display:none;
 }
 
 /* The theme drops the content 1.5rem below the tabs. The tabs already carry a
@@ -190,6 +193,31 @@ body[data-md-color-scheme="paxtycoon"] {
    cap does elsewhere */
 .md-search__button::after {
   background-color:var(--color-background-main);
+}
+
+/* The field and the table of contents are one column. The header's inner and
+   the content's inner are both .md-grid, so they share an edge to measure
+   from: the table of contents is the last 12.1rem of that grid, and the field
+   is laid out from the same right edge, back past the 0.4rem the header's
+   inner holds as padding and the 0.2rem of scrollbar gutter the sidebar keeps
+   outside its 11.5rem of nav — 0.4 + 0.2 + 11.5 = 12.1rem, the sidebar's own
+   left edge. Below 60em the field is not rendered and the contents collapse to
+   a floating button, so there is nothing to line up */
+@media screen and (min-width:60em) {
+  /* No repository is configured, so this is an empty column between the field
+     and the edge the field is measured from */
+  .md-header__source {
+    display:none;
+  }
+
+  .md-search {
+    flex-shrink:0;
+  }
+
+  .md-search__button {
+    width:11.5rem;
+    margin-right:0.2rem;
+  }
 }
 
 .md-typeset pre > code,
