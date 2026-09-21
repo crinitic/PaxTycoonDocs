@@ -1,8 +1,8 @@
 [project]
-site_name = "PAXTycoon Docs"
+site_name = "PAX Tycoon Docs"
 site_url = "https://docs.paxtycoon.com/"
-site_description = "PAXTycoon documentation"
-site_author = "PAXTycoon CEO"
+site_description = "PAX Tycoon documentation"
+site_author = "PAX Tycoon CEO"
 
 # Sidebar Navigation Structure
 nav = [
