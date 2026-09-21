@@ -6,7 +6,7 @@ site_author = "PAXTycoon CEO"
 
 # Sidebar Navigation Structure
 nav = [
-  { "Home" = "index.md" },
+  { "Getting Started" = "index.md" },
   { "Personnel" = [
     { "Jobs" = [
       { "Flight Crew" = [
