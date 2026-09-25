@@ -15,6 +15,8 @@ Only your best personnel advisor counts.
 - **Impressive**: Close enough to the going rate that overpaying becomes a decision rather than an accident.
 - **Exceptional**: Tells you what somebody is worth to within very little, and rarely hedges on training.
 
+Personnel advisors who are at least **competent** will also tell you if you have enough pilots and flight attendants, or how many more you need. They will also advise you on advisor candidates and tell you how competent they are compared to the ones you already have.
+
 ## Satisfaction
 !!! warning "Pending Implementation"
     Satisfaction doesn't have an impact on employee behavior yet.
