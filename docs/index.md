@@ -14,6 +14,9 @@ The personnel advisor is going to help you decide who to hire next. See more in 
 ### Route Advisor
 The route advisor is going to help you decide where to fly, and when. See more in [Route Advisor](personnel/jobs/route-advisor.md).
 
+### Security Manager
+A good security manager can help you save a lot of money when it matters most. See more in [Security Manager](personnel/jobs/security-manager.md).
+
 ## Start Making Money
 When you start a game, your airline is almost ready to fly. Your first action should be to get the rights to fly on a route. You have two options:
 
