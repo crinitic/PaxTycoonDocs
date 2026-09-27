@@ -6,6 +6,8 @@ The most expensive person on this list, and the one you notice least. An airline
 Only your best lawyer counts.
 
 ## Competence
+!!! warning "Pending Implementation"
+    Not decided what this job does yet
 
 ## Satisfaction
 !!! warning "Pending Implementation"

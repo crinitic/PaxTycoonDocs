@@ -4,6 +4,8 @@ An informer watches your rivals, what they buy, the routes they rent, when they 
 Only your best informer counts.
 
 ## Competence
+!!! warning "Pending Implementation"
+    Not decided what this job does yet
 
 ## Satisfaction
 !!! warning "Pending Implementation"
