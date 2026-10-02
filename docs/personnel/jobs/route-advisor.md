@@ -1,17 +1,19 @@
 # Route Advisor
 A route advisor shows where the passengers are. Every route has a season, a rhythm through the week and an hour of the day it fills up, and a route advisor is who works that out and draws it for you.
 
+You don't need one to size a route: every airline sees each route's average passengers a day over the year, and how they split across the cabins. An advisor shows how that average moves.
+
 What you are buying is sight rather than judgement. Nothing an advisor tells you is wrong. A poor one simply sees less of the picture, and the part they cannot see is not drawn at all.
 
 Only your best route advisor counts.
 
 ## Competence
 
-- **Disaster**: Share randoms facts about the airports that par part of the route.
-- **Questionable**: Draws a route's season: the months it fills and the months it empties. Shape only you can see when to fly it, not how much there is.
-- **Competent**: Adds the week, so you can see which days carry a route and which do not. Still shape, still no headcount.
-- **Impressive**: Adds the hours of the day, so you can see when people want to leave. Three curves now, and every one of them still relative.
-- **Exceptional**: The same three curves in passengers a day, which is the first point at which you can match an aeroplane to a route instead of guessing at one.
+- **Disaster**: Share randoms facts about the airports that are part of the route.
+- **Questionable**: Draws the hours of the day, so you can see when people want to leave. Every route shares the same hourly curve, so it is drawn against its own average rather than in passengers.
+- **Competent**: Adds a route's season, in passengers a day: the months it fills and the months it empties. Also tells you how many aircrafts in your fleet can fly that route.
+- **Impressive**: Adds the week in passengers a day, so you can see which days carry a route and which do not, and adds charts to compare or find routes that are complementary in terms of demand but with similar cabin demand.
+- **Exceptional**: Adds the impact of a price increase (how many more/less passengers you would have by setting a different ticket price)
 
 ## Satisfaction
 !!! warning "Pending Implementation"
