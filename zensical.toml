@@ -33,6 +33,9 @@ nav = [
     { "Salary Increases" = "personnel/salary-increases.md" },
     { "Training" = "personnel/training.md" },
   ] },
+  { "Airport" = [
+    { "Gates" = "airport/gates.md" },
+  ] },
   { "FAQ" = "faq.md" },
 ]
 

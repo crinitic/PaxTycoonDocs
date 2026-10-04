@@ -1,5 +1,5 @@
 # Gate Agent
-Gate agents handle your passengers on the ground at your home airport: check-in, boarding, and everything that happens between the terminal door and the aircraft door. You don't need gate agents for other airports you fly to, but you need one agent for each gate you plan to use at your airport.
+Gate agents handle your passengers on the ground at your home airport: check-in, boarding, and everything that happens between the terminal door and the aircraft door. You don't need gate agents for other airports you fly to, but you need one agent for each gate you plan to use at your airport. See [Gates](../../airport/gates.md).
 
 ## Competence
 !!! warning "Pending Implementation"
