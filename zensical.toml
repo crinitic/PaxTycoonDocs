@@ -36,6 +36,9 @@ nav = [
   { "Airport" = [
     { "Gates" = "airport/gates.md" },
   ] },
+  { "Routes" = [
+    { "Catering" = "routes/catering.md" },
+  ] },
   { "FAQ" = "faq.md" },
 ]
 
