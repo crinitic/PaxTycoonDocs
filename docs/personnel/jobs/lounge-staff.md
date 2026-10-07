@@ -1,5 +1,5 @@
 # Lounge Staff
-Lounge staff run the airport lounge.
+Lounge staff run your airport lounges. Every lounge needs 2 of them, wherever it is: they work for all your lounges together. See [Lounges](../../airport/lounges.md).
 
 ## Competence
 
