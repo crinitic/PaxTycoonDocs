@@ -16,10 +16,7 @@ Raise someone from their page under **Personnel**, with the **Raise** button nex
 
 A raise costs nothing on the day. The nightly payroll charges the new pay from that night on, so there is no line for it in the ledger, only bigger **Wages**. Their page shows the new pay, and **Last raise** shows today.
 
-How much a raise helps depends on how much you have already raised that person:
-
-- A first raise takes a new hire back to the top, as happy as they will ever be.
-- Every later raise does less than the one before it. Someone you have raised many times is paid well above what they signed for, and another 10% impresses them less.
+Every raise helps by the same amount, however each raise is 10% of pay that already includes every earlier raise, so someone you have kept for years is paid well above what they signed for, and well above a new hire in the same job.
 
 You can raise anyone you employ, including people who are sick or in training, and people who are already Delighted. A raise for someone who is already content buys very little, and that is your call.
 
