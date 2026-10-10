@@ -24,3 +24,6 @@ When you start a game, your airline is almost ready to fly. Your first action sh
 - **A rented route**: A rented route never expires. Every day, a new set of passengers are willing to fly it. Every 28 days you must schedule at least 10% of the route's average monthly demand, the same number all year round (both directions count). If you don't, you lose the rented route (after a 28 days grace period) and cannot rent it again for 3 months.
 
 Seasonal offers are cheaper, have a one-time cost, and have no penalty if not flown enought. Once you have secured a seasonabl offer, you don't compete with other airlines for its passengers. Rented routes are more expensive, have a recurring cost, and are lost if they are used enough. Competitors flown by your competitors come from the same pool as yours for rented routes.
+
+## Your Schedule
+Every day in the game runs on your home airport's clock, the same clock your flight board shows: today's flights are locked and fly tonight, and you can plan the next seven days. A flight belongs to the day it departs on at home, even if the local date where it takes off is different.

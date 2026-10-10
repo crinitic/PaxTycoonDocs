@@ -17,8 +17,7 @@ Only your best route advisor counts.
 
 ## Satisfaction
 !!! warning "Pending Implementation"
-    Satisfaction doesn't have an impact on employee behavior yet.
-
+    Quitting is live. Sickness and incidents are not implemented yet.
 - Miserable
 - Unhappy
 - Okay
@@ -28,3 +27,5 @@ Only your best route advisor counts.
 Low satisfaction increases the likelihood of:
 
 - Employee quitting
+
+A raise is the only thing that lifts satisfaction. See [Satisfaction](../salary-increases.md).

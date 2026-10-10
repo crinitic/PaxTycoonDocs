@@ -19,8 +19,7 @@ Personnel advisors who are at least **competent** will also tell you if you have
 
 ## Satisfaction
 !!! warning "Pending Implementation"
-    Satisfaction doesn't have an impact on employee behavior yet.
-
+    Quitting is live. Sickness and incidents are not implemented yet.
 - Miserable
 - Unhappy
 - Okay
@@ -30,3 +29,5 @@ Personnel advisors who are at least **competent** will also tell you if you have
 Low satisfaction increases the likelihood of:
 
 - Employee quitting
+
+A raise is the only thing that lifts satisfaction. See [Satisfaction](../salary-increases.md).

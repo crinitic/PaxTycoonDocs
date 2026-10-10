@@ -19,7 +19,7 @@ Only your best aircraft advisor counts.
 
 ## Satisfaction
 !!! warning "Pending Implementation"
-    Satisfaction doesn't have an impact on employee behavior yet.
+    Quitting is live. Sickness is not implemented yet.
 
 - Miserable
 - Unhappy
@@ -31,3 +31,5 @@ Low satisfaction increases the likelihood of:
 
 - Employee quitting
 - Employee being sick
+
+A raise is the only thing that lifts satisfaction. See [Satisfaction](../salary-increases.md).
