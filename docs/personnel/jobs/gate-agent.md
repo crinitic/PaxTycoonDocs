@@ -3,13 +3,13 @@ Gate agents handle your passengers on the ground at your home airport: check-in,
 
 ## Competence
 !!! warning "Pending Implementation"
-    Incidents and reputation not implemented yet.
+    Reputation is not implemented yet.
 
-Low competence gate agents decrease the passenger satisfaction for all flights departing from their gate, and have higher chances of starting incidents.
+Low competence gate agents decrease the passenger satisfaction for all flights departing from their gate, and have higher chances of starting incidents. See [Incidents](../absence-incidents.md#incidents).
 
 ## Satisfaction
 !!! warning "Pending Implementation"
-    Quitting is live. Sickness and incidents are not implemented yet.
+    Quitting is live. Sickness is not implemented yet.
 
 - Miserable
 - Unhappy

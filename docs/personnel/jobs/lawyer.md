@@ -6,12 +6,13 @@ The most expensive person on this list, and the one you notice least. An airline
 Only your best lawyer counts.
 
 ## Competence
-!!! warning "Pending Implementation"
-    Not decided what this job does yet
+Some incidents cost your airline compensation. Your lawyer takes a share off every one of those bills: the more competent they are, the bigger the share. An Exceptional lawyer halves it. With no lawyer you pay in full.
+
+There is nothing to see on the day: the **Compensation** line in the morning report is simply smaller. See [Incidents](../absence-incidents.md#incidents).
 
 ## Satisfaction
 !!! warning "Pending Implementation"
-    Quitting is live. Sickness and incidents are not implemented yet.
+    Quitting is live. Sickness is not implemented yet.
 
 - Miserable
 - Unhappy

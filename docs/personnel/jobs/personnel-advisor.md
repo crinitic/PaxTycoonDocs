@@ -19,7 +19,7 @@ Personnel advisors who are at least **competent** will also tell you if you have
 
 ## Satisfaction
 !!! warning "Pending Implementation"
-    Quitting is live. Sickness and incidents are not implemented yet.
+    Quitting is live. Sickness is not implemented yet.
 - Miserable
 - Unhappy
 - Okay

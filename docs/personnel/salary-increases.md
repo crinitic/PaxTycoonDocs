@@ -34,6 +34,6 @@ If a pilot or flight attendant who quit was on an aircraft, a spare one from the
 
 ## Sickness and incidents
 !!! warning "Pending Implementation"
-    Sickness and incidents are not implemented yet.
+    Sickness is not implemented yet.
 
-Low satisfaction will also make employees more likely to be off sick, and more likely to cause an incident.
+Low satisfaction also makes employees more likely to cause an incident. See [Incidents](absence-incidents.md#incidents). It will also make them more likely to be off sick.

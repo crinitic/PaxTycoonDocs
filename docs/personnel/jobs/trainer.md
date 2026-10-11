@@ -15,7 +15,7 @@ Only your best trainer counts. A second one is payroll.
 
 ## Satisfaction
 !!! warning "Pending Implementation"
-    Quitting is live. Sickness and incidents are not implemented yet.
+    Quitting is live. Sickness is not implemented yet.
 - Miserable
 - Unhappy
 - Okay

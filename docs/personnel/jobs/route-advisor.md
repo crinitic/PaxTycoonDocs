@@ -17,7 +17,7 @@ Only your best route advisor counts.
 
 ## Satisfaction
 !!! warning "Pending Implementation"
-    Quitting is live. Sickness and incidents are not implemented yet.
+    Quitting is live. Sickness is not implemented yet.
 - Miserable
 - Unhappy
 - Okay
