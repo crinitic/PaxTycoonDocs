@@ -30,6 +30,8 @@ Miserable employees may quit. Every night, each Miserable employee has a small c
 
 Someone who quits is gone before that night's flights: they are not paid for the night, and they do not work it. The morning report names everyone who quit.
 
+Everyone who leaves counts against your airline's reputation, whether they quit or you fire them. Firing costs no money, but it costs reputation just as quitting does. See [Reputation](../reputation.md).
+
 If a pilot or flight attendant who quit was on an aircraft, a spare one from the bench takes their place, as when you fire someone. If you have no spare, the aircraft is a crew member short and its flights are cancelled. The next pilot or flight attendant you hire goes straight onto it.
 
 ## Sickness and incidents

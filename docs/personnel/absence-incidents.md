@@ -20,7 +20,7 @@ What makes an incident likely is **low competence** or **low satisfaction**. Som
 Good staff almost never cause incidents. A starting airline of new hires will rarely see one. A roster of Disaster or Miserable employees will see them most nights. Incidents come from bad hires and missed raises, not from how big your airline is. Training and raises are how you prevent them. See [Training](training.md) and [Satisfaction](salary-increases.md).
 
 ### What they cost
-Every incident is kept on record against your airline, and will count against its reputation.
+Every incident is kept on record against your airline, and counts against its reputation. See [Reputation](../reputation.md).
 
 Some incidents also cost **compensation**: the ones where a passenger lost something real, like their flight, their luggage or their money. Rudeness and bad service cost reputation only. How much you pay depends on how bad it was and on what your flights earned that day, so a big airline flying long routes pays more for the same mistake.
 
@@ -33,4 +33,4 @@ The morning report names everyone who caused an incident overnight, and what the
 Compensation is paid every night for all of that night's incidents together, as one **Compensation** line under **The night**.
 
 ### Turning incidents off
-Incidents are a game setting. When you set up a new game, untick **Staff incidents** to play without them. It is on by default, and cannot be changed once the game has started.
+Incidents are a game setting. When you set up a new game, untick **Staff incidents** to play without them. It is on by default, and cannot be changed once the game has started. With incidents off, every airline earns the full incident points of its reputation.

@@ -2,10 +2,9 @@
 Gate agents handle your passengers on the ground at your home airport: check-in, boarding, and everything that happens between the terminal door and the aircraft door. You don't need gate agents for other airports you fly to, but you need one agent for each gate you plan to use at your airport. See [Gates](../../airport/gates.md).
 
 ## Competence
-!!! warning "Pending Implementation"
-    Reputation is not implemented yet.
+Gate agents' competence counts towards your airline's reputation, together with everyone else's except specialists. See [Reputation](../../reputation.md).
 
-Low competence gate agents decrease the passenger satisfaction for all flights departing from their gate, and have higher chances of starting incidents. See [Incidents](../absence-incidents.md#incidents).
+Low competence gate agents also have higher chances of starting incidents. See [Incidents](../absence-incidents.md#incidents).
 
 ## Satisfaction
 !!! warning "Pending Implementation"

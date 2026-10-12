@@ -36,10 +36,7 @@ You can close a lounge at any time. Closing is free, but nothing is refunded, an
 If you stop renting every route at an airport, its lounge closes on its own overnight, with no refund. The morning report tells you when this happens.
 
 ## Reputation
-!!! warning "Pending Implementation"
-    Reputation is not implemented yet.
-
-Lounges will also count towards your airline's reputation. A Palace is a status symbol as much as a waiting room.
+Lounges also count towards your airline's reputation: up to 10 points, for a Palace at every airport you fly from. Every departing passenger counts, so your busiest airports matter most. A lounge that did not open counts as none. A Palace is a status symbol as much as a waiting room. See [Reputation](../reputation.md).
 
 ## In the ledger
 Building a lounge is a **Lounge built** line under **One-time bills**. The running cost of all your lounges is paid together every night, as one **Lounge rent** line under **The night**.
