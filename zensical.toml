@@ -8,6 +8,7 @@ site_author = "PAX Tycoon CEO"
 nav = [
   { "Getting Started" = "index.md" },
   { "Reputation" = "reputation.md" },
+  { "Competitors" = "competitors.md" },
   { "Development" = "development.md" },
   { "Achievements" = "achievements.md" },
   { "Personnel" = [

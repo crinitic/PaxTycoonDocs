@@ -67,6 +67,8 @@ An incident's page in HQ shows what the passengers asked for and what you paid, 
 ### In the news
 Every Major incident makes the [News](../intel/news.md), which every airline in your game can read. The story names your airline and the job, never the employee. It stays in the news for 12 weeks, as long as it counts against your reputation.
 
+A Moderate incident never makes the news, but another player's [informer](jobs/informer.md#leaked-incidents) may hear about it. Computer airlines do not hire informers. Minor incidents stay with you.
+
 ### In the morning report
 The morning report names everyone who caused an incident overnight, and what they did. A Major incident says it made the news. An employee's page shows how many incidents they have caused in total.
 

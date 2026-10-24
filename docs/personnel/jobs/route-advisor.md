@@ -13,7 +13,7 @@ Only your best route advisor counts.
 - **Questionable**: Draws the hours of the day, so you can see when people want to leave. Every route shares the same hourly curve.
 - **Competent**: Adds a route's season, in passengers a day: the months it fills and the months it empties. Also tells you how many aircraft in your fleet can fly that route.
 - **Impressive**: Adds the week in passengers a day, so you can see which days carry a route and which do not. On a route you rent, also finds routes that pair well with it: a season opposite to this one, on a similar cabin mix, out of the airports you already fly to.
-- **Exceptional**: Shows how your fares change demand.
+- **Exceptional**: Shows how your fares change demand. It works this out as if nobody else flew the route. Where [rivals](../../competitors.md) fly it too, being better value than them can win you more than it says, and worse value can lose you more.
 
 ## Satisfaction
 - Miserable
