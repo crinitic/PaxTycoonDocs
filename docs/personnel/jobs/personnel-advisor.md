@@ -18,8 +18,6 @@ Only your best personnel advisor counts.
 Personnel advisors who are at least **competent** will also tell you if you have enough pilots and flight attendants, or how many more you need, and if you have too many advisors. They will also advise you on advisor candidates and tell you how competent they are compared to the ones you already have.
 
 ## Satisfaction
-!!! warning "Pending Implementation"
-    Quitting is live. Sickness is not implemented yet.
 - Miserable
 - Unhappy
 - Okay

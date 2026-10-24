@@ -7,9 +7,6 @@ Gate agents' competence counts towards your airline's reputation, together with 
 Low competence gate agents also have higher chances of starting incidents. See [Incidents](../absence-incidents.md#incidents).
 
 ## Satisfaction
-!!! warning "Pending Implementation"
-    Quitting is live. Sickness is not implemented yet.
-
 - Miserable
 - Unhappy
 - Okay

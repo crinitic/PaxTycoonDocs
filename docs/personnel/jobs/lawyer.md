@@ -5,15 +5,16 @@ The most expensive person on this list, and the one you notice least. An airline
 
 Only your best lawyer counts.
 
-## Competence
-Some incidents cost your airline compensation. Your lawyer takes a share off every one of those bills: the more competent they are, the bigger the share. An Exceptional lawyer halves it. With no lawyer you pay in full.
+Hiring one needs **Lawyer** from the [development tree](../../development.md).
 
-There is nothing to see on the day: the **Compensation** line in the morning report is simply smaller. See [Incidents](../absence-incidents.md#incidents).
+## Competence
+Some incidents cost your airline compensation, and the bill grows with how bad the incident was and how big your airline is. Your lawyer takes a share off every one of those bills, whatever its size: the more competent they are, the bigger the share. An Exceptional lawyer halves it. With no lawyer you pay in full. The bigger your airline, the more a lawyer saves you.
+
+A lawyer does nothing about reputation, and cannot keep a Major incident out of the [News](../../intel/news.md).
+
+The **Compensation** line in the morning report is simply smaller, and each incident's page in HQ shows what the passengers asked for and what you paid. See [Incidents](../absence-incidents.md#incidents).
 
 ## Satisfaction
-!!! warning "Pending Implementation"
-    Quitting is live. Sickness is not implemented yet.
-
 - Miserable
 - Unhappy
 - Okay

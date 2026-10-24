@@ -1,6 +1,8 @@
 # Catering
 Every route you hold, rented or seasonal, has a catering level: **Snack**, **Meal** or **Feast**. It is set on the route's screen and applies to both directions and every cabin. New routes start on Snack.
 
+Meal and Feast need **Premium service** from the [development tree](../development.md). Snack is always open.
+
 ## Why it matters
 A better meal makes your flights on that route more attractive to passengers, the same way better seats do. Snack is neutral, Meal gives a small edge and Feast a bigger one.
 

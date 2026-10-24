@@ -16,8 +16,6 @@ Only your best route advisor counts.
 - **Exceptional**: Shows how your fares change demand.
 
 ## Satisfaction
-!!! warning "Pending Implementation"
-    Quitting is live. Sickness is not implemented yet.
 - Miserable
 - Unhappy
 - Okay

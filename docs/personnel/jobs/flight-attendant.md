@@ -8,9 +8,6 @@ Attendants work the cabin, and how many an aeroplane needs depends on the aeropl
 Low competence attendants decrease the passenger satisfaction on a flight, and have higher chances of starting incidents. See [Incidents](../absence-incidents.md#incidents).
 
 ## Satisfaction
-!!! warning "Pending Implementation"
-    Quitting is live. Sickness is not implemented yet.
-
 - Miserable
 - Unhappy
 - Okay

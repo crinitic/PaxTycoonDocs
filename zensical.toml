@@ -8,6 +8,8 @@ site_author = "PAX Tycoon CEO"
 nav = [
   { "Getting Started" = "index.md" },
   { "Reputation" = "reputation.md" },
+  { "Development" = "development.md" },
+  { "Achievements" = "achievements.md" },
   { "Personnel" = [
     { "Jobs" = [
       { "Flight Crew" = [
@@ -40,6 +42,12 @@ nav = [
   ] },
   { "Routes" = [
     { "Catering" = "routes/catering.md" },
+  ] },
+  { "HQ" = [
+    { "Fuel" = "hq/fuel.md" },
+  ] },
+  { "Intel" = [
+    { "News" = "intel/news.md" },
   ] },
   { "FAQ" = "faq.md" },
 ]

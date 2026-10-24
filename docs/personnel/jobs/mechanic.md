@@ -9,8 +9,6 @@ A better mechanic slows how fast an aircraft wears down and shrinks the bill the
 Low competence mechanics also have higher chances of starting incidents. See [Incidents](../absence-incidents.md#incidents).
 
 ## Satisfaction
-!!! warning "Pending Implementation"
-    Quitting is live. Sickness is not implemented yet.
 - Miserable
 - Unhappy
 - Okay
@@ -20,6 +18,7 @@ Low competence mechanics also have higher chances of starting incidents. See [In
 Low satisfaction increases the likelihood of:
 
 - Employee quitting
+- Employee being sick
 - Employee being the cause of an incident
 
 A raise is the only thing that lifts satisfaction. See [Satisfaction](../salary-increases.md).

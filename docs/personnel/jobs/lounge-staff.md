@@ -1,13 +1,12 @@
 # Lounge Staff
 Lounge staff run your airport lounges. Every lounge needs 2 of them, wherever it is: they work for all your lounges together. See [Lounges](../../airport/lounges.md).
 
+Hiring them needs **Basic lounges** from the [development tree](../../development.md).
+
 ## Competence
 Low competence lounge staff have higher chances of starting incidents. See [Incidents](../absence-incidents.md#incidents).
 
 ## Satisfaction
-!!! warning "Pending Implementation"
-    Quitting is live. Sickness is not implemented yet.
-
 - Miserable
 - Unhappy
 - Okay

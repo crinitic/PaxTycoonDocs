@@ -3,13 +3,15 @@ A lounge gives your passengers somewhere better to wait before they board. You c
 
 Manage your lounges from **Airport > Lounges**.
 
+Building a lounge needs **Basic lounges** from the [development tree](../development.md), and the Deluxe and Palace levels need **Advanced lounges**. Lowering a lounge's level and closing it are never locked.
+
 ## Why it matters
 Passengers leaving from an airport where you have a lounge are more likely to choose your flights over a competitor's, and are willing to pay a higher fare for them. The lounge works for every flight departing from that airport, in every cabin. Arriving passengers get nothing from it.
 
 The better the lounge, the bigger the edge. 
 
 ## Levels and cost
-Building a lounge costs **¤10,000,000** once, whatever the level. You need the money in the bank to build it.
+Building a lounge costs **¤50,000,000** once, whatever the level. You need the money in the bank to build it.
 
 After that, each level has its own running cost:
 
@@ -26,12 +28,12 @@ You can change the level at any time, for free. The new level applies from today
 ## Lounge staff
 Every lounge needs 2 [lounge staff](../personnel/jobs/lounge-staff.md). They work for all your lounges together: nobody is tied to a particular airport.
 
-To build a lounge, you need 2 spare lounge staff at work, on top of the ones already running your other lounges. Hire them under **Personnel** first.
+To build a lounge, you need 2 spare lounge staff at work, on top of the ones already running your other lounges. Hire them under **Personnel** first. Hiring lounge staff needs Basic lounges too.
 
 If fewer lounge staff are at work than your lounges need, some lounges do not open that night. Their departures fly without the lounge, and the lounge still pays its running cost. Your home lounge is always the last to stay closed. The morning report tells you which lounges did not open.
 
 ## Closing a lounge
-You can close a lounge at any time. Closing is free, but nothing is refunded, and its lounge staff stay on the payroll. The running cost stops that night. Building it again costs the full ¤10,000,000, whatever the level.
+You can close a lounge at any time. Closing is free, but nothing is refunded, and its lounge staff stay on the payroll. The running cost stops that night. Building it again costs the full ¤50,000,000, whatever the level.
 
 If you stop renting every route at an airport, its lounge closes on its own overnight, with no refund. The morning report tells you when this happens.
 

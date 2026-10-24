@@ -5,9 +5,6 @@ Pilots fly the aircraft. Each aeroplane needs its full complement before it can 
 Competence here feeds how often this person is the cause of an incident. See [Incidents](../absence-incidents.md#incidents).
 
 ## Satisfaction
-!!! warning "Pending Implementation"
-    Quitting is live. Sickness is not implemented yet.
-
 - Miserable
 - Unhappy
 - Okay

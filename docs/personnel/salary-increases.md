@@ -35,7 +35,4 @@ Everyone who leaves counts against your airline's reputation, whether they quit 
 If a pilot or flight attendant who quit was on an aircraft, a spare one from the bench takes their place, as when you fire someone. If you have no spare, the aircraft is a crew member short and its flights are cancelled. The next pilot or flight attendant you hire goes straight onto it.
 
 ## Sickness and incidents
-!!! warning "Pending Implementation"
-    Sickness is not implemented yet.
-
-Low satisfaction also makes employees more likely to cause an incident. See [Incidents](absence-incidents.md#incidents). It will also make them more likely to be off sick.
+Low satisfaction also makes employees more likely to fall ill and to cause an incident. Miserable employees fall ill about three times as often as Unhappy ones. See [Sickness](absence-incidents.md#sickness) and [Incidents](absence-incidents.md#incidents).

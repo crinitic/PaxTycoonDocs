@@ -3,6 +3,8 @@ Every flight that departs from or arrives at your home airport needs a gate whil
 
 You start with one gate. Change the number of gates from **Airport > Gates**.
 
+Renting more than one gate needs **Extra gates** from the [development tree](../development.md). Releasing a gate is never locked.
+
 ## Cost
 - **Renting a new gate**: ¤1,000,000 once, per gate.
 - **Rent**: ¤560,000 a month per gate, paid ¤20,000 every night.
@@ -22,11 +24,13 @@ Each terminal holds 10 gates. Terminal A is free. Once every gate in your termin
 | Terminal | Gates | One-time cost |
 |---|---|---|
 | A | A1-A10 | Included |
-| B | B1-B10 | ¤5,000,000,000 |
-| C | C1-C10 | ¤10,000,000,000 |
-| D | D1-D10 | ¤15,000,000,000 |
+| B | B1-B10 | ¤50,000,000,000 |
+| C | C1-C10 | ¤100,000,000,000 |
+| D | D1-D10 | ¤150,000,000,000 |
 
-Each terminal costs ¤5,000,000,000 more than the last. Terminals have no rent, and you keep them even if you release their gates.
+Each terminal costs ¤50,000,000,000 more than the last. Terminals have no rent, and you keep them even if you release their gates.
+
+Building a terminal needs **Terminals** from the [development tree](../development.md), which comes after Extra gates. The node only lets you build: each terminal still costs the price above.
 
 ## Timetable
 The **Timetable** tab shows which flight holds each gate at each moment of the day. A flight drawn in red means more aircraft are on the ground than you have staffed gates.

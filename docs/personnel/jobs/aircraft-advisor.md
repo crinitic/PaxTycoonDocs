@@ -18,9 +18,6 @@ Only your best aircraft advisor counts.
 - **Exceptional**: Tells you which airframe on the market is the bargain, and by how much.
 
 ## Satisfaction
-!!! warning "Pending Implementation"
-    Quitting is live. Sickness is not implemented yet.
-
 - Miserable
 - Unhappy
 - Okay
@@ -30,6 +27,5 @@ Only your best aircraft advisor counts.
 Low satisfaction increases the likelihood of:
 
 - Employee quitting
-- Employee being sick
 
 A raise is the only thing that lifts satisfaction. See [Satisfaction](../salary-increases.md).

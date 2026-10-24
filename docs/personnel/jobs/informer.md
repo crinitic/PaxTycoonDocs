@@ -8,9 +8,6 @@ Only your best informer counts.
     Not decided what this job does yet
 
 ## Satisfaction
-!!! warning "Pending Implementation"
-    Quitting is live. Sickness is not implemented yet.
-
 - Miserable
 - Unhappy
 - Okay

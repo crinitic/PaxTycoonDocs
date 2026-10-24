@@ -3,7 +3,11 @@ A trainer is what makes training possible at all. Without one on the payroll the
 
 The trainer is also the rare job where you are buying nothing but the competence. Their own rating sets how fast every course in your airline moves, for everybody, at once.
 
-Only your best trainer counts. A second one is payroll.
+Your trainer is also the one who spots when somebody has stopped improving, and marks them **Reached potential** in the Training list. A better trainer spots it sooner. See [Training](../training.md).
+
+Only your best trainer counts. The one reason for a second is to train the first: your last trainer cannot be sent on a course, because nobody would be left to teach it.
+
+Hiring one needs **Trainer** from the [development tree](../../development.md).
 
 ## Competence
 
@@ -14,8 +18,6 @@ Only your best trainer counts. A second one is payroll.
 - **Exceptional**: Worth waiting for, and worth overpaying for when one appears.
 
 ## Satisfaction
-!!! warning "Pending Implementation"
-    Quitting is live. Sickness is not implemented yet.
 - Miserable
 - Unhappy
 - Okay
