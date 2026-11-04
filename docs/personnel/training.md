@@ -16,7 +16,7 @@ You need a trainer. Without one, nobody can be sent. Hiring a trainer needs **Tr
 ## Sending someone
 Open the person's page under **Personnel** and tap **Train**, between **Raise** and **Fire**. The dialog says what happens next. If nobody is there to teach them, it says so, and you need to hire a trainer first.
 
-A pilot or flight attendant comes off their aircraft as soon as they are sent, and a spare from the bench takes their place. If you have no spare, the aircraft is a crew member short and its flights are cancelled until somebody is back or you hire. See [Absence and Incidents](absence-incidents.md).
+A pilot or flight attendant comes off their aircraft as soon as they are sent, and a spare from the bench takes their place. If you have no spare, the aircraft is a crew member short and its flights are cancelled until it has a full crew again, from new hires or staff back at work. See [Absence and Incidents](absence-incidents.md).
 
 ## While they are away
 Someone on a course is not at work:

@@ -69,10 +69,8 @@ Once your airline has two nights of scores, the dialog draws a chart of your sco
 
 Your line is the thick amber one, drawn over the others. The other airlines in your game are drawn beside it, each from its first scored night: a line that begins with an open dot is an airline that got its first score inside the range. The list of other airlines is the chart's key, with each airline's colour before its name. A colour stays with its airline, so overtaking someone never repaints their line.
 
-### More than three other airlines
-Up to three other airlines are coloured at a time. With three or fewer, all of them are. With more, the rest are drawn as thin grey lines, and you pick which to follow: tap an airline in the list to colour its line, and tap it again to put it back to grey. You can follow three at once, so picking a fourth sends the one you picked first back to grey and gives its colour to the new one.
-
-The dialog opens with the airlines just above and just below you in the ranking already picked. Your picks are forgotten when you close it.
+### Following airlines
+Every other airline has its own colour, and they are all coloured when the dialog opens. To clear the chart, tap an airline in the list to draw its line in thin grey under the others, and tap it again to give it its colour back. With more than five other airlines, colours are used again, so go by the list and the callout to tell those lines apart. Your picks are forgotten when you close the dialog.
 
 ### Picking a day
 Tap or click a day on the chart to see everyone's score that night, highest first. Only the coloured airlines are named; the grey ones that had a score are counted, as in **and 6 others**. An airline that had no score yet that day is left out. Tap the same day again, or switch the range, to put it away.

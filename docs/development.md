@@ -66,6 +66,8 @@ When you look at a route to rent, its screen tells you which node it needs, if a
 ### HQ
 Skyway Robbery Finance always lends, whatever you have bought.
 
+No computer airline trades shares until you have **Shares**, so until then nobody can take you over. See [The Shares node](finance/shares.md#the-shares-node).
+
 | Node | DP | Unlocks |
 |---|---|---|
 | Security manager | 10 | Hiring a [security manager](personnel/jobs/security-manager.md). |
@@ -73,10 +75,10 @@ Skyway Robbery Finance always lends, whatever you have bought.
 | Trainer | 10 | Hiring a [trainer](personnel/jobs/trainer.md), and so [training](personnel/training.md). |
 | Better lenders | 20 | Borrowing from Holding Pattern, Quickturn and Throttlebury. |
 | Fuel management | 25 | Buying [fuel tanks](hq/fuel.md#tanks). |
-| Shares | 50 | Coming later. |
+| Shares | 50 | Buying and selling [shares](finance/shares.md) in any airline, and taking over an airline you control. |
 
 ## What is never locked
-Seasonal offers, Skyway Robbery Finance, selling aircraft, overhauls, firing staff, and the fuel price and its history are open to everyone from the first day.
+Seasonal offers, Skyway Robbery Finance, selling aircraft, overhauls, firing staff, the fuel price and its history, and the share prices and their history are open to everyone from the first day.
 
 Going down is never locked either. You can always release a gate, lower a lounge's level, choose cheaper catering, or fit 1★ seats, whatever you have bought.
 
@@ -84,7 +86,7 @@ Going down is never locked either. You can always release a gate, lower a lounge
 A screen that offers something you have not unlocked says so, and names the node it needs, for example **Needs Widebody**. Tap **Development** next to it to go straight to the tree. When you come back after buying the node, the lock is gone.
 
 ## How much there is
-The whole tree costs 645 DP. Achievements pay out about 1,050 DP in all, so you can finish the tree without earning every achievement. Skip the ones that do not suit how you play, and do harder ones instead.
+The whole tree costs 645 DP. Achievements pay out about 1,080 DP in all, so you can finish the tree without earning every achievement. Skip the ones that do not suit how you play, and do harder ones instead.
 
 There is no order to buy the tree in. Price alone sets the pace: the cheap nodes come first because you can afford them first.
 

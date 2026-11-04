@@ -9,8 +9,10 @@ nav = [
   { "Getting Started" = "index.md" },
   { "Reputation" = "reputation.md" },
   { "Competitors" = "competitors.md" },
+  { "Leaderboard" = "leaderboard.md" },
   { "Development" = "development.md" },
   { "Achievements" = "achievements.md" },
+  { "Flights" = "flights.md" },
   { "Personnel" = [
     { "Jobs" = [
       { "Flight Crew" = [
@@ -43,9 +45,13 @@ nav = [
   ] },
   { "Routes" = [
     { "Catering" = "routes/catering.md" },
+    { "Past offers" = "routes/past-offers.md" },
   ] },
   { "HQ" = [
     { "Fuel" = "hq/fuel.md" },
+  ] },
+  { "Finance" = [
+    { "Shares" = "finance/shares.md" },
   ] },
   { "Intel" = [
     { "News" = "intel/news.md" },

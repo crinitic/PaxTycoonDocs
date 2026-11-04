@@ -1,5 +1,5 @@
 # Competitors
-You do not have your home airport to yourself for long. A few weeks into a game, computer airlines start setting up there: they fly from the same airport, sell seats on the same routes, hire from the same candidates and buy from the same market as you.
+You do not have your home airport to yourself for long. A few weeks into a game, computer airlines start setting up there: they fly from the same airport, sell seats on the same routes, hire from the same candidates and buy from the same market as you. A computer airline's CEO is drawn as a robot, so you can tell one apart at a glance.
 
 If your game was set up with **Computer airlines** turned off, none ever arrive.
 
@@ -24,7 +24,7 @@ On its launch day it gets what you started with: two A321neo, and the crew, mech
 
 **The first rival waits for you to settle in.** It files on the first night your last 28 days were profitable, but never before day 21. If you have not managed a profitable 28 days by day 42, it files anyway.
 
-**More follow as you grow**, one at a time and at least 28 days apart, until the game holds as many other airlines as your revenue over the last 28 days calls for:
+**More follow as you grow**, one at a time, at least 28 days apart and usually a week or so more, until the game holds as many other airlines as your revenue over the last 28 days calls for:
 
 | Your revenue, last 28 days | Other airlines in the game |
 |---|---|
@@ -35,7 +35,7 @@ On its launch day it gets what you started with: two A321neo, and the crew, mech
 
 This counts every other airline in the game, including other players. In a game with other players, computer airlines only fill the places left over.
 
-**Rivals never leave.** Your revenue only decides whether a new rival files. A bad month does not make one go away.
+**Rivals do not leave on their own.** Your revenue only decides whether a new rival files. A bad month does not make one go away. The only way an airline leaves a game is being [taken over](finance/shares.md#control) by another, and a rival taken over leaves a place for a new one to file.
 
 **Later rivals are stronger.** A rival starts with three times your revenue over the last 28 days, and never less than you started with. One that arrives when you are big also reviews its network more often, times its departures better, and has more unlocked from the start.
 
@@ -63,7 +63,27 @@ Nobody goes bankrupt, not you and not a rival. An airline can stay below zero fo
 
 A rival short of money does what you would. It borrows first: Skyway Robbery Finance always lends. Then it cuts back: it ends its losing routes, sells aircraft one at a time, though never its last, and lays off the staff it no longer needs. Big layoffs make the [news](intel/news.md#what-makes-the-news), so you can watch a rival shrink.
 
+Once rivals trade [shares](#shares), a rival short of money also sells its shares in other airlines first, and then some of itself, before it borrows. One with nowhere left to borrow but Skyway Robbery sells a little more of itself at every review, even below half.
+
+## Shares
+Rivals buy and sell [shares](finance/shares.md) by the same rules as you, from the same public, at the same prices, and only on weekdays: a rival whose review falls on a weekend leaves its shares until Monday. **None trades until you have the Shares node**, and from then on every rival does.
+
+A rival treats you exactly as it treats every other rival. It does not hunt you in particular.
+
+- **It keeps most of itself.** Each kind keeps a different share of itself, but always more than half: Legacy the most, Opportunist the least.
+- **Every few years it raises money** by selling itself down to a little under half, and spends it on growing: more aircraft and routes than it would otherwise add. Over the next month or so it buys itself back, as far as the public still has its shares. With a few rivals in a game, expect one round about every game year, and each one makes the news. That is when a rival can be taken over, by you or by another rival.
+- **It buys into airlines that look cheap**, when the market's mood has dropped an airline's price well under what it is worth, and sells again when the price is well over. These buys land on healthy airlines too, so a rival holding a few percent of you does not mean it is after you. Budget never does this.
+- **It buys up an airline that stays under half.** Every rival but Budget keeps watching an airline that holds less than half of itself with shares available to buy. A week or two is nothing; after somewhere between three weeks and two months, depending on the rival, it starts buying a few percent at every review until it has control or nothing is left to buy. Opportunist moves first, and Regional last. It forgets slowly: an airline that keeps dipping under half is watched sooner each time. Several rivals can go after the same airline.
+- **It never borrows to buy shares**, and spends only part of the money it has spare.
+
+**With control of another rival**, it takes it over at its next review. Legacy always absorbs. Regional absorbs an airline that mostly flies regional aircraft, and liquidates any other. Opportunist liquidates an airline that owes more than it is worth, and absorbs any other. See [Absorbing](finance/shares.md#absorbing) and [Liquidating](finance/shares.md#liquidating).
+
+**With control of you**, it does nothing to your airline: you have been acquired, and the game is over. See [Being taken over](finance/shares.md#being-taken-over).
+
+Every 10%, 25% and 40% a rival gets of another airline makes the [news](intel/news.md), and so does control. With a Competent [financial advisor](personnel/jobs/financial-advisor.md) the market tells you when control of a rival is within your reach, and an Impressive [informer](personnel/jobs/informer.md) tells you who holds it.
+
 ## What you can find out
 - **The [News](intel/news.md)**, for everyone: a rival filing, opening a new destination or a terminal, laying staff off, an aircraft grounded, a Major incident.
 - **The [reputation](reputation.md) dialog**, for everyone: each rival's score and its history.
-- **An [informer](personnel/jobs/informer.md)** for everything else: where each rival flies and what it charges, its fleet, how full its flights are and how it is doing for money, depending on how good they are.
+- **The [Shares](finance/shares.md) market**, for everyone: each rival's share price, what it is worth, and how much of it is available to buy.
+- **An [informer](personnel/jobs/informer.md)** for everything else: where each rival flies and what it charges, its fleet, how full its flights are, how it is doing for money and who holds its shares, depending on how good they are.

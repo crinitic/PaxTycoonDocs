@@ -17,14 +17,14 @@ Raises are how you keep it down. See [Satisfaction](salary-increases.md).
 ### Who takes their place
 You never re-roster by hand. A pilot or flight attendant who falls ill comes off their aircraft, and a spare from the bench takes their place, as when someone quits. When they are better, they come back to the bench, or straight onto an aircraft that is short.
 
-If there is no spare, the aircraft is a crew member short and its flights are cancelled until somebody is back or you hire. A gate agent off sick with no one to cover leaves a gate idle, lounge staff off sick can keep a lounge closed, and a mechanic off sick tends no aircraft.
+If there is no spare, the aircraft is short of crew and its flights are cancelled until it has a full crew again, from new hires or enough staff back at work. A gate agent off sick with no one to cover leaves a gate idle, lounge staff off sick can keep a lounge closed, and a mechanic off sick tends no aircraft.
 
 **Keep about 5% spare crew**: one spare pilot for every 20 you need, one spare flight attendant for every 20 you need, and never fewer than one of each. That covers almost every day, whatever the size of your airline. Miserable staff fall ill too often for 5% to be enough.
 
 ### On your screens
 Anyone off sick still counts in your headcount, since you still pay them. But the spare or short count beside it only counts the people at work. A line such as **12 pilots · 3 off sick · 1 short** means you employ 12 pilots, 3 of them are off, and the 9 at work are 1 fewer than your fleet needs.
 
-The morning report says how many people fell ill overnight, without naming them. If spares covered everyone, it is a line under the other updates. If an aircraft is left short, it is an urgent box that names every aircraft short of crew. When someone who was off sick is back and an aircraft is fully crewed again, the morning report says that too.
+The morning report says how many people fell ill overnight, without naming them. If spares covered everyone, it is a line under the other updates. If an aircraft is left short, it is an urgent box that names every aircraft short of crew, how many of each job it is missing, and how many flights it has that day. When someone who was off sick is back and an aircraft is fully crewed again, the morning report says that too.
 
 ## Incidents
 Every night, anyone who worked that day might cause an incident. Most are embarrassing, some are expensive. A pilot tries a loop for fun. A gate agent lets a goat on as carry-on. A flight attendant serves coffee with salt instead of sugar. A mechanic refills the coffee machine with hydraulic fluid.

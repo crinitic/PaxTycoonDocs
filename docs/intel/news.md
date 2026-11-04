@@ -13,6 +13,7 @@ Read it from **Intel > News**. You do not need to hire anyone for it. The Intel 
 | Routes | an airline starts flying somewhere new | Gossip Air is now flying to Nashville. |
 | New airlines | a new airline files to fly from your home airport | Budgetwing has filed to fly from New York. Its first flights leave on Feb 28. |
 | Fuel | the price of fuel jumps overnight | A refinery fire on the Gulf Coast sent jet fuel up 18% overnight. |
+| Shares | an airline sells part of itself, raises money for new aircraft, gets 10%, 25% or 40% of another airline, or takes control of it, absorbs or liquidates it | Gullwing now holds 25% of Gossip Air. |
 
 **Incidents.** Only Major incidents make the news. Minor and Moderate ones never do, though another player's [informer](../personnel/jobs/informer.md#leaked-incidents) may hear about a Moderate one. The story names the airline and the job, never the employee, so your rivals never learn who your staff are. See [Incidents](../personnel/absence-incidents.md#incidents).
 
@@ -22,11 +23,13 @@ Read it from **Intel > News**. You do not need to hire anyone for it. The Intel 
 
 **Terminals.** Every terminal after the first one, which comes with your base. See [Gates](../airport/gates.md).
 
-**Routes.** Taking a seasonal offer or renting a route makes the news when it is a new destination for the airline. Taking a seasonal offer on a route you already rent does not. It does not matter whether you have scheduled any flights on it yet.
+**Routes.** Taking a seasonal offer or renting a route makes the news when it is a new destination for the airline. Renting a route you already hold a seasonal offer on does not. It does not matter whether you have scheduled any flights on it yet.
 
 **New airlines.** A computer airline files two weeks before its first flights, and the story gives the day they leave. Its launch makes no story of its own: its first routes make the news as anyone's do. See [Competitors](../competitors.md#when-they-arrive).
 
 **Fuel.** Every shock in the fuel price, up or down. The price is the same for every airline in the game, so the story is about the fuel market, not an airline. See [Shocks](../hq/fuel.md#shocks).
+
+**Shares.** An airline selling part of itself makes one story a day, however often it sells. A holder makes the news as it goes up through 10%, 25% and 40% of another airline, and again when it passes half, which is control. The takeover makes its own story, and so does a rival acquiring you, which is the last story the stock market tells. Buying a few percent, or selling shares in another airline, does not make the news. See [Shares](../finance/shares.md).
 
 ## Reading the news
 Stories are listed newest first, under the day they happened. Each names the airline, and your own stories are tagged **You**. A fuel story reads **Fuel market** instead of an airline.
