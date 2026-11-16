@@ -10,7 +10,7 @@ The better your informer, the more they find out, and each level finds out every
 
 - **Disaster**: Each rival's routes: the days it flies each one, its departure times from both ends, and its fares in each cabin.
 - **Questionable**: Adds each rival's fleet: which aircraft types it flies, and how many of each.
-- **Competent**: Adds loads: how full each rival's flights on each route were over the last 7 days.
+- **Competent**: Adds loads: how full each rival's flights on each route were over the last 7 days. Also adds each rival's flights and seats on a given day, in a route's [Seats](../../routes/seats.md) section.
 - **Impressive**: Adds finances: each rival's balance, its revenue over the last 28 days, and what it owes on loans.
 - **Exceptional**: Everything an Impressive informer finds out. Watching, where you tell your informer what to look out for, is coming later.
 
@@ -27,6 +27,8 @@ Under the rivals are the leaked incidents.
 A route's screen shows who else flies it. Your informer gives each rival's days, departures and fares on that route, and from **Competent** how full its seats were over the last 7 days. Tap the rival's name to open everything else your informer knows about it.
 
 Without an informer, the route screen only tells you to hire one.
+
+The route screen's [Seats](../../routes/seats.md) section names each rival flying the route on a given day, from today to 7 days ahead. From **Competent**, it also gives each one's flights and seats that day, and puts their seats against demand alongside yours when your route advisor reaches that far. With an informer, the section also shows on routes you don't hold.
 
 ## Leaked incidents
 Every Moderate incident another airline causes has a chance of reaching your informer, and the better your informer, the better the chance: a Disaster hears about very few, and an Exceptional one about nearly all of them. Each leak is listed under Leaks, under the day it happened, worded as a news story would be, and stays there for **12 weeks**.

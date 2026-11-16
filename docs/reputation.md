@@ -46,7 +46,7 @@ Satisfaction counts everyone. Competence leaves specialists out. The dialog show
 
 **Turnover** is the share of your staff who left in the last 4 weeks. Someone who left yesterday counts in full and fades out over the 4 weeks, so if 1 person out of 100 left yesterday, the dialog reads 1%, and half that two weeks later.
 
-**Turnover counts everyone who leaves, whether they quit or you fire them.** Firing costs no money, but it costs reputation just as quitting does. See [Satisfaction](personnel/salary-increases.md).
+**Turnover counts everyone who leaves, whether they quit or you fire them.** Firing costs no money, but it costs reputation just as quitting does. See [Satisfaction](personnel/salary-increases.md). Staff a rival lured away with a [headhunting raid](airport/security.md#headhunting-raid) are the one exception: nobody quit on you.
 
 ### Reliability (25 points)
 
@@ -57,9 +57,11 @@ Satisfaction counts everyone. Competence leaves specialists out. The dialog show
 
 **Incidents are weighted by how bad they were.** A Minor incident counts 1 point, a Moderate one 3 and a Major one 10, so a single Major incident in 1,000 flights costs half the 15. Average staff will cause about 2 points' worth of incidents for every 1,000 flights. A small airline feels each one more, because it flies fewer flights for them to be spread over. See [How bad they are](personnel/absence-incidents.md#how-bad-they-are).
 
-**Every cancellation counts**, whatever the reason: no crew, an aircraft that could not fly, an aircraft in the wrong place, or no gate. A passenger does not care why their flight did not go. Ferry flights carry nobody and count for nothing, here or anywhere else on this page.
+**A rival's dirty trick counts too.** A stink bomb, a rubber chicken, a hijacked boarding call, a fake press release or snakes on a flight that lands on you counts as an incident, Minor, Moderate or Major by how good the rival's security manager is. See [Security](airport/security.md#reputation-attacks).
 
-If your game was set up with **Staff incidents** turned off, every airline earns the full 15 incident points. See [Incidents](personnel/absence-incidents.md#incidents).
+**Every cancellation counts**, whatever the reason: no crew, an aircraft that could not fly, an aircraft in the wrong place, or no gate. A passenger does not care why their flight did not go. The one exception is a rival's [geese in the engine](airport/security.md#geese-in-the-engine): you did not fail, so it costs you only the takings. Ferry flights carry nobody and count for nothing, here or anywhere else on this page.
+
+If your game was set up with **Staff incidents** turned off, nobody causes incidents, so only a rival's dirty tricks can cost incident points. With **Sabotage** off as well, every airline earns the full 15. See [Incidents](personnel/absence-incidents.md#incidents).
 
 ## Other airlines
 The dialog lists every other airline in your game with its score, in order, with yours among them. You see their scores, never their breakdowns. An airline that has no score yet is listed last.

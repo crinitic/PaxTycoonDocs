@@ -40,7 +40,7 @@ The route advisor is going to help you decide where to fly, and when. See more i
 The cheapest nodes on the [development tree](development.md) are the ones most airlines want first:
 
 - **Extra gates** (5 DP). You start with one gate, so only one aircraft at a time can turn around at home. See [Gates](airport/gates.md).
-- **Security manager** (10 DP), before you buy aircraft. A good security manager can help you save a lot of money when it matters most. See more in [Security Manager](personnel/jobs/security-manager.md).
+- **Security manager** (10 DP), before you buy aircraft. A good security manager can help you save a lot of money when it matters most, and lets you play dirty tricks on your rivals. Holding the node also lets the computer airlines play theirs on you. See more in [Security Manager](personnel/jobs/security-manager.md).
 - **Direct rentals** (15 DP), for routes that never expire.
 
 There is no order you have to follow. Buy what suits the airline you want to run.
@@ -50,3 +50,15 @@ Every day in the game runs on your home airport's clock, the same clock your fli
 
 ## Everything Unlocked
 If your game was set up with **Everything unlocked**, there are no achievements and no development tree: you can rent routes, hire a security manager and use everything else from your first day. See [Everything unlocked](development.md#everything-unlocked).
+
+## Style
+The game has two looks. **Classic** is dark, like a departures board at night. **Sketch** is paper and ink, like a notebook on a desk. Only the look changes: every screen, figure and button is the same in both, and nothing in your games changes.
+
+To change it, open the menu at the top of the screen and pick **Style**. The game restyles as you pick, and your choice is saved straight away, so **Done** only closes the box.
+
+Your style belongs to your account, so it follows you to every device you sign in on. Another device picks up a change the next time it loads the game.
+
+You can also pick a style on the sign-in page, under the form. Until you sign in, that choice is kept by your browser only. When you sign in, your account's style wins. If you have never picked one, your account keeps the one you chose on the sign-in page. If you never pick a style anywhere, the game is Sketch.
+
+## The Terminal
+On a computer, the space around your phone is an airport terminal. Walk along it by dragging, scrolling, the arrow keys or the ‹ › buttons, and tap whatever catches your eye. It is only for fun: nothing in it changes your game.

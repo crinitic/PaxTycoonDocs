@@ -32,6 +32,8 @@ Buy as many of each size as you like. Your capacity is all of them added up. You
 
 A tank has no running cost. It cannot be sold or removed, so what you pay for it is spent for good.
 
+A rival's [sugar in the tank](../airport/security.md#sugar-in-the-tank) can ruin a little of what is stored in it.
+
 Without tanks, every night buys all its fuel at that day's price.
 
 Buying a tank needs **Fuel management** from the [development tree](../development.md). Until you have a tank there is nowhere to put fuel, so you cannot buy fuel ahead either. The price, its history and the Fuel screen are open to everyone, since an airline without tanks pays the day's price.

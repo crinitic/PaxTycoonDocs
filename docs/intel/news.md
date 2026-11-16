@@ -8,6 +8,7 @@ Read it from **Intel > News**. You do not need to hire anyone for it. The Intel 
 |---|---|---|
 | Incidents | an employee causes a **Major** incident | A Gossip Air gate agent let a goat on as carry-on. |
 | Groundings | an aircraft becomes too worn to fly | A Gossip Air Boeing 737-800 was grounded, too worn to fly. |
+| Scrapped aircraft | an aircraft reaches the end of its working life | A Gossip Air Airbus A320neo reached the end of its working life and was scrapped. |
 | Layoffs | an airline fires more than 25 employees in 4 weeks | Gossip Air laid off 27 employees in 28 days. |
 | Terminals | an airline opens a new terminal | Gossip Air opened its second terminal. |
 | Routes | an airline starts flying somewhere new | Gossip Air is now flying to Nashville. |
@@ -18,6 +19,8 @@ Read it from **Intel > News**. You do not need to hire anyone for it. The Intel 
 **Incidents.** Only Major incidents make the news. Minor and Moderate ones never do, though another player's [informer](../personnel/jobs/informer.md#leaked-incidents) may hear about a Moderate one. The story names the airline and the job, never the employee, so your rivals never learn who your staff are. See [Incidents](../personnel/absence-incidents.md#incidents).
 
 **Groundings.** An aircraft is grounded when its condition falls too low to fly. The story names the aircraft type, never its registration. If you overhaul an aircraft and let it wear out again, it makes the news again.
+
+**Scrapped aircraft.** An aircraft is scrapped the night it reaches 120,000 hours. The story names the aircraft type, never its registration. See [Aircraft age](../aircraft/age.md).
 
 **Layoffs.** Only employees you fire count, not those who quit. Once an airline makes the news for layoffs, it does not do so again for 4 weeks, however many more it fires.
 

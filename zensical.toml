@@ -13,6 +13,9 @@ nav = [
   { "Development" = "development.md" },
   { "Achievements" = "achievements.md" },
   { "Flights" = "flights.md" },
+  { "Aircraft" = [
+    { "Age" = "aircraft/age.md" },
+  ] },
   { "Personnel" = [
     { "Jobs" = [
       { "Flight Crew" = [
@@ -42,9 +45,11 @@ nav = [
   { "Airport" = [
     { "Gates" = "airport/gates.md" },
     { "Lounges" = "airport/lounges.md" },
+    { "Security" = "airport/security.md" },
   ] },
   { "Routes" = [
     { "Catering" = "routes/catering.md" },
+    { "Seats" = "routes/seats.md" },
     { "Past offers" = "routes/past-offers.md" },
   ] },
   { "HQ" = [

@@ -1,5 +1,5 @@
 # Security Manager
-A security manager argues about money on your behalf when your airline is buying new aircraft off the catalogue, used ones off the market, and fuel tanks.
+A security manager has two jobs. They argue about money on your behalf when your airline is buying new aircraft off the catalogue, used ones off the market, and fuel tanks. And they run your dirty tricks on rival airlines, and stop theirs on you.
 
 They show you nothing and change nothing about what you see beforehand: the whole of their work turns up as a smaller number on the receipt, after the deal is done, never as a quote you could shop around with.
 
@@ -10,6 +10,13 @@ They only ever work the buying side. What your airline sells goes to the same bu
 Only your best security manager counts.
 
 Hiring one needs **Security manager** from the [development tree](../../development.md).
+
+## Dirty tricks
+With a security manager at work, you can attack a rival once a night from **Airport > Security**: a stink bomb in their lounge, geese in an engine, a headhunting raid. See [Security](../../airport/security.md).
+
+On attack, a better manager lands more often against the same defender, and hits harder when it lands: a worse reputation hit, a busier aircraft grounded, more fuel ruined, more staff brought over or upset. They also charge more for it.
+
+On defence, a better manager foils more of what rivals try, but never softens a hit that gets through. Any security manager, however poor, tells you who was behind an attack. Without one, you only learn what happened.
 
 ## Competence
 !!! question "Implemented?"

@@ -82,6 +82,9 @@ A rival treats you exactly as it treats every other rival. It does not hunt you 
 
 Every 10%, 25% and 40% a rival gets of another airline makes the [news](intel/news.md), and so does control. With a Competent [financial advisor](personnel/jobs/financial-advisor.md) the market tells you when control of a rival is within your reach, and an Impressive [informer](personnel/jobs/informer.md) tells you who holds it.
 
+## Dirty tricks
+Every rival has a security manager, and once you hold the **Security manager** node, rivals may play dirty tricks on you: a stink bomb in your lounge, geese in an engine, a headhunting raid. Opportunist does it the most, and Legacy never starts it. Attack one yourself and it may well answer, whatever its kind. Rivals never attack each other. See [Security](airport/security.md).
+
 ## What you can find out
 - **The [News](intel/news.md)**, for everyone: a rival filing, opening a new destination or a terminal, laying staff off, an aircraft grounded, a Major incident.
 - **The [reputation](reputation.md) dialog**, for everyone: each rival's score and its history.
