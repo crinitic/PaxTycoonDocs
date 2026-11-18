@@ -1,8 +1,10 @@
 # Flights
-The **Flights** board is your schedule, one aircraft at a time, as a **Day** or a **Week**. Every time on it is on your home airport's clock.
+The **Flights** board is your schedule, one aircraft at a time, as a **Day** or as **Multi-day**. Every time on it is on your home airport's clock.
+
+**Multi-day** shows nine days: yesterday, today, and the seven days you can still change. **‹ and ›** page nine days at a time. On a phone it shows three days at a time, with today in the middle, and you swipe for the rest. On a computer, drag the phone wider to see more days at once, up to all nine.
 
 ## Map
-The globe beside **Day | Week** opens a globe of your whole airline on one day: every route you hold, and every aircraft you own, where it is at the minute you pick. The map only shows. Nothing on it changes your schedule.
+The globe beside **Day | Multi-day** opens a globe of your whole airline on one day: every route you hold, and every aircraft you own, where it is at the minute you pick. The map only shows. Nothing on it changes your schedule.
 
 ### What it shows
 - **Your routes.** Every route you hold, rented or seasonal, as a line along the shortest way round the globe.
@@ -15,7 +17,7 @@ The globe beside **Day | Week** opens a globe of your whole airline on one day: 
 Past days show what happened and future days show the plan. A cancelled flight never flew, so its aircraft stays on the ground.
 
 ### Time
-The map opens on the board's day, or on today from the Week view, at 12:00 on your home clock.
+The map opens on the board's day, or on today from Multi-day, at 12:00 on your home clock.
 
 - **The slider** moves the time through the day, from 00:00 to 24:00, five minutes at a time.
 - **‹ and ›** page the day, from the game's first day to a week after today.

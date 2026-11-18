@@ -151,7 +151,7 @@ Each pays **30 DP**.
 **Their fate is yours** counts the first time you buy enough of another airline to hold more than half of it: see [Control](finance/shares.md#control). You do not have to keep it, so absorbing or liquidating that airline the same day still earns it.
 
 ## Secret
-Secret achievements are not shown until you earn them. The Achievements tab only tells you how many are left to find. There are five, and each pays **5 DP**.
+Secret achievements are not shown until you earn them. The Achievements tab only tells you how many are left to find. There are seven, and each pays **5 DP**.
 
 ## In a game with everything unlocked
 A game set up with **Everything unlocked** has no achievements and no DP: there is nothing left to unlock. See [Everything unlocked](development.md#everything-unlocked).

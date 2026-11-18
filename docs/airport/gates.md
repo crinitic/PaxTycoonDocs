@@ -35,4 +35,6 @@ Building a terminal needs **Terminals** from the [development tree](../developme
 ## Timetable
 The **Timetable** tab shows which flight holds each gate at each moment of the day. A flight drawn in red means more aircraft are on the ground than you have staffed gates.
 
+**Day | Multi-day** switches between one day and the week, Monday to Sunday. When the whole week does not fit, Multi-day shows as many whole days as it can and you swipe for the rest. On a computer, drag the phone wider to see more.
+
 Gate numbers are only there to help you read the timetable. A flight can move to another gate when you change your schedule.

@@ -36,8 +36,9 @@ The best anyone has done in the game, each with the airline that holds it. A rec
 | **Best reputation** | the highest score one airline was given on a night, and the day | the earlier day |
 | **Most achievements** | the most [achievements](achievements.md) one airline has earned, each step of a ladder counting one | whoever got there first |
 | **Takeovers** | the most airlines one airline has [absorbed or liquidated](finance/shares.md#control) | whoever got there first |
+| **Rats shot** | the most rats one airline has shot | whoever got there first |
 
-Computer airlines earn no achievements, so Most achievements is always held by a player.
+Computer airlines earn no achievements and shoot no rats, so Most achievements and Rats shot are always held by a player.
 
 A record nobody holds yet is not shown, and nor is the section until somebody holds one.
 

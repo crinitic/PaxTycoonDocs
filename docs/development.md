@@ -86,7 +86,7 @@ Going down is never locked either. You can always release a gate, lower a lounge
 A screen that offers something you have not unlocked says so, and names the node it needs, for example **Needs Widebody**. Tap **Development** next to it to go straight to the tree. When you come back after buying the node, the lock is gone.
 
 ## How much there is
-The whole tree costs 645 DP. Achievements pay out about 1,080 DP in all, so you can finish the tree without earning every achievement. Skip the ones that do not suit how you play, and do harder ones instead.
+The whole tree costs 645 DP. Achievements pay out about 1,118 DP in all, so you can finish the tree without earning every achievement. Skip the ones that do not suit how you play, and do harder ones instead.
 
 There is no order to buy the tree in. Price alone sets the pace: the cheap nodes come first because you can afford them first.
 

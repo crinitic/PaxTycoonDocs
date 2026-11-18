@@ -21,6 +21,8 @@ If there is no spare, the aircraft is short of crew and its flights are cancelle
 
 **Keep about 5% spare crew**: one spare pilot for every 20 you need, one spare flight attendant for every 20 you need, and never fewer than one of each. That covers almost every day, whatever the size of your airline. Miserable staff fall ill too often for 5% to be enough.
 
+You cannot fire someone while they are off sick. Their **Fire** button stays greyed out until they are back at work. Someone on a course can still be fired.
+
 ### On your screens
 Anyone off sick still counts in your headcount, since you still pay them. But the spare or short count beside it only counts the people at work. A line such as **12 pilots · 3 off sick · 1 short** means you employ 12 pilots, 3 of them are off, and the 9 at work are 1 fewer than your fleet needs.
 

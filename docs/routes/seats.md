@@ -30,7 +30,16 @@ From a **Competent** informer, each rival also shows its flights and seats that 
 If your informer knows of nobody else flying that day, it says so.
 
 ## Through the day
-From a **Questionable** route advisor, the section draws the day's hourly curve, the hours people want to leave, with your departures marked on it. With an informer, rivals' departures are marked too, in their own style.
+From a **Questionable** route advisor, the section draws the day's curve: when people like to leave, in your home airport's time. It is a shape, not a count. Every route shares it, and how many fly comes from the season and the week.
+
+Your departures are marked on it, and each one cuts out what it reaches. People will take a flight up to 3½ hours from the time they wanted, liking it less the further off it is, so a departure's reach is full at its own time and fades out 3½ hours either side. Outside that it still sells a little, mostly to regulars who fly with you whatever the time, which is the thin band along the bottom. What none of your departures reach stays pale.
+
+Under the curve:
+
+- **The share** of the day's travellers who want to leave within 3½ hours of one of your departures: **76% of the day's travellers want to leave within 3½ h of one of your departures**.
+- **Gap**, a busy stretch none of your departures reach, also marked by a line under the curve. A departure there would reach people your others don't.
+
+With an informer, rivals' departures are marked too, as dashed lines.
 
 ## Seats against demand
 From a **Competent** route advisor, a bar puts the day's seats against the day's passengers, all cabins together:
@@ -40,6 +49,8 @@ From a **Competent** route advisor, a bar puts the day's seats against the day's
 - **Without a seat**, the passengers nobody has a seat for, in grey.
 
 Under the bar, a line says what share of the passengers have a seat: **Seats for 54% of 1,863 passengers**.
+
+A table then splits the bar by cabin: for each of First, Business and Economy, your seats, the rivals' seats when the bar has them, the passengers, and the seats as a share of those passengers. A cabin can be short of seats while the day as a whole is not, and this is where it shows. When only one cabin is counted, the table would repeat the bar, so it is left out.
 
 When there are more seats than passengers, the bar is drawn to the seats instead, a **Demand** mark shows where the passengers run out, and the key adds **More than demand** with how many seats are left over. The share goes over 100%. The bar does not say whose seats will fly empty: that comes down to fares and departure times.
 
