@@ -31,7 +31,6 @@ Each pays **3 DP**. Any of these can be earned from your first day, and together
 | Seasonal offer | Take a seasonal offer |
 | Every day | A seasonal offer ends with a flight on every day it ran |
 | Hands full | Hold 3 seasonal offers at once |
-| Overhaul | Overhaul an aircraft |
 | Second-hand | Buy a used aircraft |
 | Factory fresh | Buy a new aircraft |
 | Sold | Sell an aircraft |

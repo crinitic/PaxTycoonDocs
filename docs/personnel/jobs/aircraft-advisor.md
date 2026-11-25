@@ -26,7 +26,7 @@ They say nothing about an aircraft that is still young: under about 27,000 hours
 
 - **Disaster** and **Questionable**: Say nothing about age.
 - **Competent**: Say how much faster an old aircraft wears, in words: slightly, noticeably or much. On the Aircraft screen, how many of your aircraft are wearing faster with age.
-- **Impressive**: Give the figure, for example 1.88× as fast as a young airframe. On the Aircraft screen, the figure for the oldest.
+- **Impressive**: Give the figure, for example 1.88× faster than a young airframe. On the Aircraft screen, the figure for the oldest.
 - **Exceptional**: Also say how many hours a day the aircraft is flying, from its schedule, and in about how many days it will reach the limit at that rate. On the Aircraft screen, which aircraft retires next, and when.
 
 ## Satisfaction

@@ -18,7 +18,7 @@ Read it from **Intel > News**. You do not need to hire anyone for it. The Intel 
 
 **Incidents.** Only Major incidents make the news. Minor and Moderate ones never do, though another player's [informer](../personnel/jobs/informer.md#leaked-incidents) may hear about a Moderate one. The story names the airline and the job, never the employee, so your rivals never learn who your staff are. See [Incidents](../personnel/absence-incidents.md#incidents).
 
-**Groundings.** An aircraft is grounded when its condition falls too low to fly. The story names the aircraft type, never its registration. If you overhaul an aircraft and let it wear out again, it makes the news again.
+**Groundings.** An aircraft is grounded when its condition falls too low to fly. The story names the aircraft type, never its registration. If its weekly maintenance puts it back in the air and it wears out again, it makes the news again.
 
 **Scrapped aircraft.** An aircraft is scrapped the night it reaches 120,000 hours. The story names the aircraft type, never its registration. See [Aircraft age](../aircraft/age.md).
 

@@ -5,6 +5,8 @@ Open it from the menu at the top of the screen, under **Leaderboard**. It is the
 
 Everything on it is public. Every airline in the game sees the same leaderboard, and none of it needs an [informer](personnel/jobs/informer.md).
 
+It opens on **This game**, described first below. The **All games** tab beside it ranks every player's airline from every game (see [All games](#all-games)).
+
 ## The table
 **One row for every airline in the game**, yours included, with computer airlines among the rest. A computer airline's CEO is drawn as a robot. A rival that has filed is not listed until its launch day. An airline that has been taken over moves to [Closed](#closed).
 
@@ -46,3 +48,27 @@ A record nobody holds yet is not shown, and nor is the section until somebody ho
 Every airline that has been absorbed or liquidated, the most recent first, with who took it over and when, for example **Absorbed by Copperleaf Air · Nov 9, Year 2** or **Liquidated by Gullwing · Mar 3, Year 3**.
 
 The section appears once the first airline has closed. See [Absorbing](finance/shares.md#absorbing) and [Liquidating](finance/shares.md#liquidating).
+
+## All games
+**One row for every player's airline**, from every game anyone has played. Computer airlines are left out, though they are still ranked in their own game. A player in three games has three rows, and every row of yours is highlighted and marked **you**. Every player sees the same table.
+
+**Each row says where its game is based**, for example **from San Francisco (SFO)**, with a tag for each setting the game changed from the default:
+
+- **all unlocked**: set up with [Everything unlocked](development.md#everything-unlocked).
+- **no incidents**: set up without [Staff incidents](personnel/absence-incidents.md#turning-incidents-off).
+- **no sabotage**: set up without [Sabotage](airport/security.md#a-game-setting).
+- **no rivals**: set up with [Computer airlines](competitors.md) turned off.
+
+A game on every default has no tags. Every game counts whatever its settings: the tags are there so you can judge the figures for yourself.
+
+**Ranked by company value**, highest first, as in a game. An older game has had longer to grow, so its airlines tend to be near the top. An airline no night has valued yet is not listed, so a game never played past its first day does not show. An airline that has been taken over is not listed either. One whose player has left its game still is, marked **left the game**.
+
+**Each row is as of the end of its own game's last day.** Games move at their own pace, so there is no single day for the whole table. Pax always counts from the game's first day, so no first day is shown under it.
+
+On a phone, where the game is based goes on a line of its own under the pax.
+
+**The records** are the same five as in a game, drawn from every player's airline in every game, with where the holder's game is based under its name. Takeovers counts every airline a player's airline has absorbed or liquidated, computer airlines included. A record set by an airline that has since been taken over still stands.
+
+There is no Closed section in All games.
+
+The tab is read the first time you pick it and kept until you close the leaderboard, so it does not change while it is open. If it fails to load, pick the tab again to retry.

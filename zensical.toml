@@ -48,6 +48,8 @@ nav = [
     { "Security" = "airport/security.md" },
   ] },
   { "Routes" = [
+    { "Your routes" = "routes/your-routes.md" },
+    { "Fares" = "routes/fares.md" },
     { "Catering" = "routes/catering.md" },
     { "Seats" = "routes/seats.md" },
     { "Past offers" = "routes/past-offers.md" },

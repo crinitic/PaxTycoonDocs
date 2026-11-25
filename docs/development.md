@@ -78,7 +78,7 @@ No computer airline trades shares until you have **Shares**, so until then nobod
 | Shares | 50 | Buying and selling [shares](finance/shares.md) in any airline, and taking over an airline you control. |
 
 ## What is never locked
-Seasonal offers, Skyway Robbery Finance, selling aircraft, overhauls, firing staff, the fuel price and its history, and the share prices and their history are open to everyone from the first day.
+Seasonal offers, Skyway Robbery Finance, selling aircraft, firing staff, the fuel price and its history, and the share prices and their history are open to everyone from the first day.
 
 Going down is never locked either. You can always release a gate, lower a lounge's level, choose cheaper catering, or fit 1★ seats, whatever you have bought.
 

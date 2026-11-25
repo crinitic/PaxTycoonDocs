@@ -15,7 +15,7 @@ Every aircraft loses a little condition each day, and more for every hour it fli
 
 It rises smoothly, hour by hour, with no step anywhere, so there is no point at which selling suddenly makes sense. Most of it comes late in an aircraft's life. It applies on the ground too: an old aircraft that is parked still wears faster than a new one that is parked.
 
-Faster wear costs you through the things condition already affects: upkeep rises as condition falls, worn aircraft count against your [reputation](../reputation.md), they sell for less, and an aircraft worn too far is grounded. Age has no other penalty.
+Faster wear costs you through the things condition already affects: upkeep rises as condition falls, worn aircraft count against your [reputation](../reputation.md), they sell for less, and an aircraft worn too far is grounded until its weekly maintenance, on Sunday night at the latest. Age has no other penalty.
 
 !!! warning "Minimal maintenance on an old aircraft"
     On **Minimal**, a young aircraft whose weekly maintenance happens can never be grounded between checks. Past about 108,000 hours, an aircraft flown round the clock with no mechanic looking after it can be.
