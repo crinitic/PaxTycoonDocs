@@ -7,15 +7,10 @@ on:
 
 permissions:
   contents: read
-  pages: write      # Publishes the built site to the Pages service
-  id-token: write   # Lets the deploy step prove the artifact came from this run
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v6
@@ -39,6 +34,20 @@ jobs:
         with:
           path: site
 
+  # Its own job, so the artifact is listed by a fresh runner after the upload
+  # has finished. Deploying in the same job as the upload can look for the
+  # artifact before GitHub has made it visible, and fail with "No artifacts
+  # named github-pages" (actions/deploy-pages#451).
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write      # Publishes the built site to the Pages service
+      id-token: write   # Lets the deploy step prove the artifact came from this run
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: Deploy to GitHub Pages
         # Serves the uploaded artifact directly, so there is no gh-pages branch
         id: deployment
